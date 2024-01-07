@@ -1,0 +1,13 @@
+.wrap {
+  width: 180px;
+  height: 60;
+  margin: 0 auto 10px;
+  padding: 10px;
+  text-align: center;
+  background-color: wheat;
+}
+
+.wrap > * {
+  color: black;
+  text-decoration: none;
+}
